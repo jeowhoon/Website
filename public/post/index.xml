@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Josh’s Site</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Josh’s Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ca</language>
+    <lastBuildDate>Fri, 24 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Enhanced Taiwanese Romanization System</title>
+      <link>/post/etrs/</link>
+      <pubDate>Fri, 24 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/etrs/</guid>
+      <description>Unlike the POJ, Enhanced Taiwanese Romanization System is only used as phoenetic alphabets instead as a writing system. It does not used hyphen to connect a word like Taiwanese Romanization System does but attemps to transcript character by character. This system is modified from Taiwanese Romanization System and has referenced from POJ to suit for both Hokkien and Hakka. Below is the charts of Enhanced Taiwanese Romanization System, or ETRS for short.</description>
+    </item>
+    
+  </channel>
+</rss>
