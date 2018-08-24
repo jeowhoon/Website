@@ -140,42 +140,45 @@ Unlike the *POJ*, *Enhanced Taiwanese Romanization System* is only used as phoen
 
 ---
 
-# Appendix A Hokkien and Hakka Finals
+# Appendix A: Hokkien and Hakka Finals
 
 |||nn|m|n|ng|p|t|k|h|nnh|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|**i**|||||||||||
-|**ir**|||||||||||
-|**u**|||||||||||
-|**e**|||||||||||
-|**o**|||||||||||
-|**er**|||||||||||
-|**ee**|||||||||||
-|**oo**|||||||||||
-|**a**|||||||||||
-|**iu**|||||||||||
-|**ie**|||||||||||
-|**io**|||||||||||
-|**ia**|||||||||||
-|**iri**|||||||||||
-|**ui**|||||||||||
-|**ue**|||||||||||
-|**ua**|||||||||||
-|**eu**|||||||||||
-|**oi**|||||||||||
-|**ere**|||||||||||
-|**eeu**|||||||||||
-|**ai**|||||||||||
-|**au**|||||||||||
-|**iui**|||||||||||
-|**ieu**|||||||||||
-|**ioi**|||||||||||
-|**iai**|||||||||||
-|**iau**|||||||||||
-|**uai**|||||||||||
-|**m**|||||||||||
-|**n**|||||||||||
-|**ng**|||||||||||
+|**i**|i|ĩ|im|in|(ing)|ip|it|(ik)|(ih)|(ĩh)|
+|**ir**|ï||ïm|ïn|(ïng)|ïp|ït|(ïk)|||
+|**u**|u|||un|[ung]||ut|[uk]|(uh)||
+|**e**|e|ẽ|[em]|[en]||[ep]|[et]||(eh)|(ẽh)|
+|**o**|o|||[on]|[ong]||[ot]|[ok]|(oh)||
+|**er**|ë||||||||||
+|**ee**|ee||[eem]|[een]|(eeng)||[eet]|(eek)|||
+|**oo**|oo|(õ)|(om)||(ong)|(op)||(ok)|(ooh)|(õh)|
+|**a**|a|(ã)|am|an|ang|ap|at|ak|(ah)|(ãh)|
+|**iu**|iu|(iũ)||[iun]|[iung]||[iut]|[iuk]|(iuh)|(iũh)|
+|**ie**|[ie]||[iem]|[ien]||[iep]|[iet]||||
+|**io**|io|||[ion]|iong||[iot]|iok|(ioh)||
+|**ia**|ia|(iã)|iam|ian|iang|iap|iat|iak|(iah)|(iãh)|
+|**iri**||(ïĩ)|||||||||
+|**ui**|ui||||||||||
+|**ue**|ue|||[uen]|||[uet]||(ueh)||
+|**ua**|ua|(uã)||(uan)|[uang]||(uat)|[uak]|(uah)||
+|**eu**|[eu]||||||||||
+|**oi**|[oi]||||||||||
+|**ere**|(ëe)||||||||||
+|**eeu**|[eeu]||||||||||
+|**ai**|ai|aĩ|||||||(aih)|(aĩh)|
+|**au**|au||||||||(auh)||
+|**iui**|[iui]||||||||||
+|**ieu**|[ieu]||||||||||
+|**ioi**|[ioi]||||||||||
+|**iai**|[iai]||||||||||
+|**iau**|iau|iaũ|||||||(iauh)||
+|**uai**|uai|uaĩ|||||||||
+|**m**|m||||||||(mh)||
+|**n**|[n]||||||||||
+|**ng**|ng||||||||(ngh)||
+
+(Round bracket): Only used in Hokkien</br>
+[Square bracket): Only used in Hakka
 
 ---
 
