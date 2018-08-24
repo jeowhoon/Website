@@ -3,21 +3,21 @@ title: Enhanced Taiwanese Romanization System
 date: '2018-08-24'
 slug: ETRS
 categories: ['linguistics']
-tags: []
+tags: ['TL', 'POJ', 'Hakka', 'Hokkien', 'Taiwanese', 'Transliteration']
 ---
 
-Unlike the *POJ*, *Enhanced Taiwanese Romanization System* is only used as phoenetic alphabets instead as a writing system. It does not used hyphen to connect a word like *Taiwanese Romanization System* does but attemps to transcript character by character. This system is modified from *Taiwanese Romanization System* and has referenced from *POJ* to suit for both Hokkien and Hakka. Below is the charts of *Enhanced Taiwanese Romanization System*, or *ETRS* for short.
+Unlike the *POJ* (Pe̍h-ōe-jī, Church Romanization), *Enhanced Taiwanese Romanization System* is only used as phoenetic alphabets instead as a writing system. It does not used hyphen to connect a word like *TL* (Tâi-lô, Taiwanese Romanization System) does but attemps to transcript character by character. This system is modified from *TL* and has referenced from *POJ* to suit for both Hokkien and Hakka. Below is the charts of *Enhanced Taiwanese Romanization System*, or *ETRS* for short.
 
 # Consonants
 |ETRS|Hokkien|Hakka|Note|
 |:---:|:---:|:---:|:---|
-|b|[ b ]|[ b ]|Hakka *b* only used in Chioon (詔安) Hakka|
-|ch|-|[ t͜ʃ ]|*ch* is only used in Hoiliuk, Ngiauphin, Chioon dialects.|
-|chh|-|[ t͜ʃʰ ]|Same as above|
+|b|[ b ]|[ b ]|In Hakka, *b* is only used in Chioon (詔安) dialect.|
+|ch|-|[ ʧ ]|*ch* is only used in Hoiliuk (海陸), Ngiauphin (饒平), Chioon (詔安) dialects.|
+|chh|-|[ ʧʰ ]|Same as above|
 |f|-|[ f ]||
 |g|[ g ]|-||
 |h|[ h ]|[ h ]||
-|j|[ d͜z ~ z ]|[ ʒ ]|Note that *j* has different sounds in Hokkien and Hakka. In Hakka, *j* is only used in Hoiliuk, Thaiphu, Ngiauphin, Chioon dialects.|
+|j|[ ʣ ~ z ]|[ ʒ ]|Note that *j* has different sounds in Hokkien and Hakka. In Hakka, *j* is only used in Hoiliuk (海陸), Thaiphu (大埔), Ngiauphin (饒平), Chioon (詔安) dialects.|
 |k|[ k ]|[ k ]||
 |kh|[ kʰ ]|[ kʰ ]||
 |l|[ l ]|[ l ]||
@@ -30,8 +30,8 @@ Unlike the *POJ*, *Enhanced Taiwanese Romanization System* is only used as phoen
 |sh|-|[ ʃ ]||
 |t|[ t ]|[ t ]||
 |th|[ tʰ ]|[ tʰ ]||
-|ts|[ t͜s ]|[ t͜s ]|In Hokkien and Siien Hakka, *ts* patalizes to [ t͜ɕ ] before *i*|
-|tsh|[ t͜sʰ ]|[ t͜sʰ ]|Same as above|
+|ts|[ ʦ ]|[ ʦ ]|In Hokkien and Siien (四縣) Hakka, *ts* patalizes to [ ʨ ] before *i*|
+|tsh|[ ʦʰ ]|[ ʦʰ ]|Same as above|
 |v|-|[ v ]||
 |y|-|[ y ]||
 
@@ -42,14 +42,14 @@ Unlike the *POJ*, *Enhanced Taiwanese Romanization System* is only used as phoen
 |:---:|:---:|:---:|:---|
 |a||[ a ]||
 |e||[ e ]||
-|ee||[ ɛ ]|In Hokkien, *ee* is only used in Tsiangtsiu dialect. In Hakka, *ee* is only used in Chioon dialect.|
-|er|ë|[ ə ]|In Hokkien, *er* is only used in Tsuantsiu dialect. In Hakka, *er* is only used as diminutives in Hoiliuk, Ngiauphin dialects.|
+|ee||[ ɛ ]|In Hokkien, *ee* is only used in Tsiangtsiu (漳州) dialect. In Hakka, *ee* is only used in Chioon (詔安) dialect.|
+|er|ë|[ ə ]|In Hokkien, *er* is only used in Tsuantsiu (泉州) dialect. In Hakka, *er* is only used as diminutives in Hoiliuk (海陸), Ngiauphin (饒平) dialects.|
 |i||[ i ]||
-|ir|ï|[ ɨ ~ ï ]|In Hokkien, *ir* is only used in Tsuantsiu dialect.|
-|o||[ ə~ɤ~o ]||
-|oo||[ ɔ ]|In Hakka, *oo* is only used in Chioon dialect.|
+|ir|ï|[ ɨ ~ ï ]|In Hokkien, *ir* is only used in Tsuantsiu (泉州) dialect.|
+|o||[ ə ~ ɤ ~ o ]||
+|oo||[ ɔ ]|In Hakka, *oo* is only used in Chioon (詔安) dialect.|
 |u||[ u ]||
-|-nn|˜|[ ˜ ]|In Hakka, *-nn* is only used in Chioon dialect.|
+|-nn|˜|[ ˜ ]|In Hakka, *-nn* is only used in Chioon (詔安) dialect.|
 
 ---
 
@@ -80,25 +80,25 @@ Unlike the *POJ*, *Enhanced Taiwanese Romanization System* is only used as phoen
 > tiau sî pík tè tshái ûn kan, tshian lí kang lîng it jít huân;</br>
 > lióng gān uân sing thê put tsū, khing tsiu í kò bān tiông san.
 
-**Siien**
+**Siien 四縣**
 
 > **tsò fat phák ti sǎng&emsp;lì phák**</br>
 > tsêu tshǐr phák ti tshài iǔn kiên, tshiên lì kông lǐn it ngit fǎn;</br>
 > liòng ngan iěn sâng tǐ put tshu, khîn tsû ì ko van tshǔng sân.
 
-**Hoiliuk**
+**Hoiliuk 海陸**
 
 > **tsô fát phet tǐ shang&emsp;lî phet**</br>
 > cháu tshir phet tǐ tshâi jun kién, tshién lî kóng lin jít ngít fan;</br>
 > liông ngān jan sháng thi pút chhū, khín chiú jî kǒ vān chhung sán.
 
-**Thaiphu**
+**Thaiphu 大埔**
 
 > **tsò fat phák tí shǎng&emsp;lì phét**</br>
 > chēu tshǐr phák tí tshài jǔn kiēn, tshiēn lì kōng lǐn jit ngit fǎn;</br>
 > liòng ngán jěn shāng tǐ put chhú, khīn chiū jì kó ván chhǔng sān.
 
-**Chioon**
+**Chioon 詔安**
 
 > **tsòo fât pha tì sháng&emsp;lì phét**</br>
 >chiǒ sú pha tì tshài bún kěen, tshiěn lì kǒng lín jît ngît bán;</br>
@@ -113,27 +113,27 @@ Unlike the *POJ*, *Enhanced Taiwanese Romanization System* is only used as phoen
 深坑區 Tshimkhẽa Dist</br>
 土城區 Thoosiã Dist
 
-**Siien**</br>
+**Siien 四縣**</br>
 長治鄉 Tshongtshï Twp</br>
 造橋鄉 Tshokieu Twp</br>
 公館鄉 Kungkon Twp
 
-**Hoiliuk**</br>
+**Hoiliuk 海陸**</br>
 楊梅區 Jongmoi Dist</br>
 關西鎮 Kuansi Twp</br>
 峨眉鄉 Ngomi Twp
 
-**Thaiphu**</br>
+**Thaiphu 大埔**</br>
 東勢區 Tungshi Dist</br>
 石岡區 Shakkong Dist</br>
 新社區 Sinsha Dist
 
-**Ngiauphin**</br>
+**Ngiauphin 饒平**</br>
 中壢區 Chunglak Dist</br>
 平鎮區 Phinchin Dist</br>
 觀音區 Kuanjim Dist	
 
-**Chioon**</br>
+**Chioon 詔安**</br>
 龍潭區 Liungtham Dist</br>
 大溪區 Thaikhe Dist</br>
 崙背鄉 Lunpue Twp
@@ -178,7 +178,7 @@ Unlike the *POJ*, *Enhanced Taiwanese Romanization System* is only used as phoen
 |**ng**|ng||||||||(ngh)||
 
 (Round bracket): Only used in Hokkien</br>
-[Square bracket): Only used in Hakka
+[Square bracket]: Only used in Hakka
 
 ---
 

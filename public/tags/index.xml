@@ -6,9 +6,64 @@
     <description>Recent content in Tags on Josh’s Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ca</language>
+    <lastBuildDate>Fri, 24 Aug 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hakka</title>
+      <link>/tags/hakka/</link>
+      <pubDate>Fri, 24 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/hakka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hokkien</title>
+      <link>/tags/hokkien/</link>
+      <pubDate>Fri, 24 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/hokkien/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>POJ</title>
+      <link>/tags/poj/</link>
+      <pubDate>Fri, 24 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/poj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TL</title>
+      <link>/tags/tl/</link>
+      <pubDate>Fri, 24 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/tl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Taiwanese</title>
+      <link>/tags/taiwanese/</link>
+      <pubDate>Fri, 24 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/taiwanese/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transliteration</title>
+      <link>/tags/transliteration/</link>
+      <pubDate>Fri, 24 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/transliteration/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

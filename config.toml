@@ -14,7 +14,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [params]
   slogan = "typographie et linguistique"
 # description = "Describe your website" # meta description
-  author = "Josh Ng"
+  author = "Josh"
 # authorLink = "https://appernetic.io/"
 # bio = [
 #   "Göran is an avid blogger and the founder of <a href='https://appernetic.io/'>Appernetic.io</a>. This is the author bio shown after posts."
