@@ -89,13 +89,13 @@
   </url>
   
   <url>
-    <loc>/tags/vocabularies/</loc>
+    <loc>/categories/vocabularies/</loc>
     <lastmod>2018-08-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/vocabularies/</loc>
+    <loc>/tags/vocabularies/</loc>
     <lastmod>2018-08-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

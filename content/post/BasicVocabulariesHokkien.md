@@ -14,9 +14,9 @@ tags: ['Hokkien', 'Pronouns', 'Taiwanese', 'Vocabularies']
 |Hokkien|English Translation|Examples|
 |:---:|:---:|:---|
 |我</br>*guá*|**“I”**|**我**合汝無合伊來往。</br>You and **I** are not close to him.|
-|阮</br>*guán/gún*|Exclusive **“we”**---us, but not you.</br>Also used as genetive, **“my,” “our”**|**阮**臺灣儂。</br>**We** Taiwanese.</br>**阮**老爸。</br>**My** dad.|
-|㑑</br>*lán*|Inclusive **“we”**---you, me, and possibly others.</br>Also used as genetive, **“our”**|恁是作武官，阮是作文官，**㑑**平平是政府其官吏。</br>You are agressive governors and we are passive governors, but **we** are equally officials of the government.</br>**㑑**戍裏也有。</br>We have it in **our** home, too.|
-|汝</br>*lí*|Singular **“You”**|**汝**各飯坩，我也各碗籃。</br>**You** are to pot as I am to basket. Meaning we’re roughly the same.|
+|阮</br>*guán/gún*|Exclusive **“we”**---us, but not you.</br>Also used as genetive, **“my,” “our”**|**阮**臺灣儂。</br>**We** Taiwanese.</br></br>**阮**老爸。</br>**My** dad.|
+|㑑</br>*lán*|Inclusive **“we”**---you, me, and possibly others.</br>Also used as genetive, **“our”**|恁是作武官，阮是作文官，**㑑**平平是政府其官吏。</br>You are military officers and we are civilian officials, but **we** are equally officialdom of the government.</br></br>**㑑**戍裏也有。</br>We have it in **our** home, too.|
+|汝</br>*lí*|Singular **“You”**|**汝**各飯坩，我也各碗籃。</br>**You** are to rice pot as I am to dish rack, meaning we’re roughly the same.|
 |恁</br>*lín*|Plural **“You”**---all of you|叫**恁**去。</br>Ask **all of you** to go.|
 |伊</br>*i*|**“He/she”**|**伊**講怎樣？</br>What did **he** say?|
 |𪜶</br>*in*|**“They”**|**𪜶**大家。</br>All of **them**.|
