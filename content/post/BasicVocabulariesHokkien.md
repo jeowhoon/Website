@@ -19,7 +19,7 @@ tags: ['Hokkien', 'Pronouns', 'Taiwanese', 'Vocabularies']
 |汝</br>*lí*|Singular **“You”**|**汝**各飯坩，我也各碗籃。</br>**You** are to rice pot as I am to dish rack, meaning we’re roughly the same.|
 |恁</br>*lín*|Plural **“You”**---all of you|叫**恁**去。</br>Ask **all of you** to go.|
 |伊</br>*i*|**“He/she”**|**伊**講怎樣？</br>What did **he** say?|
-|〓</br>*in*|**“They”**|**〓**大家。</br>All of **them**.|
+|<span style="font-family:'u2a736';">〓</span></br>*in*|**“They”**|**<span style="font-family:'u2a736';">〓</span>**大家。</br>All of **them**.|
 |啥儂</br>*siánn lâng, siáng/siâng*|**“Who”**|**啥儂**講？</br>**Who** said?|
 
 ### Demonstrative
