@@ -1,13 +1,34 @@
-@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700,700i&subset=latin-ext');
-
 /* Fonts */
   @font-face {
     font-family: 'u2a736';
     src: url("fonts/u2a736.ttf");
   }
+  @font-face {
+    font-family: 'Noto Sans';
+    src: url("fonts/NotoSansDisplay-Regular.ttf");
+    font-weight: 400;
+  }
+  @font-face {
+    font-family: 'Noto Sans';
+    src: url("fonts/NotoSansDisplay-Italic.ttf");
+    font-weight: 400;
+    font-style: italic;
+  }
+  @font-face {
+    font-family: 'Noto Sans';
+    src: url("fonts/NotoSansDisplay-Bold.ttf");
+    font-weight: 700;
+  }
+  @font-face {
+    font-family: 'Noto Sans';
+    src: url("fonts/NotoSansDisplay-BoldItalic.ttf");
+    font-weight: 700;
+    font-style: italic;
+  }
+  
   *, h1, h2, h3, h4, h5, h6 {
-    font-family: 'Open Sans', sans-serif;
-}
+    font-family: 'Noto Sans', 'source-han-sans-korean', sans-serif;
+  }
 
 /* Blockquote border */
   blockquote {
