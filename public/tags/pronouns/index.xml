@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Josh’s Site</title>
-    <link>/</link>
-    <description>Recent content on Josh’s Site</description>
+    <title>Pronouns on Josh’s Site</title>
+    <link>/tags/pronouns/</link>
+    <description>Recent content in Pronouns on Josh’s Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ca</language>
     <lastBuildDate>Fri, 24 Aug 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/pronouns/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,16 +18,6 @@
       
       <guid>/post/basicvocabularieshokkien/</guid>
       <description>Pronouns Personal    Hokkien English Translation     我guá “I”   阮guán/gún Exclusive “we”&amp;mdash;us, but not you.Also used as genetive, “my,” “ours”   㑑lán Inclusive “we”&amp;mdash;you, me, and possibly others.Also used as genetive, “ours”   汝lí Singular “You”   恁lín Plural “You”&amp;mdash;all of you   伊i “He/she”   𪜶in “They”   啥儂siánn lâng, siáng/siâng “Who”    Demonstrative    Hokkien English Translation     這tse “This”   這寡、遮其tsit kuá, tsia ê “These”   彼he “That”   彼寡、遐其hit kuá, hia ê “Those”   啥、啥物、啥貨siánn, siánn mih, siánn huè/hè “What”   遮tsia “Here”1   遐hia “There”1   底、底位tó, tó uī “Where”1    Determiners Demonstrative    Hokkien English Translation     這&amp;hellip;tsit&amp;hellip; “This&amp;hellip;”   彼&amp;hellip;hit&amp;hellip; “That&amp;hellip;”   底&amp;hellip;tó&amp;hellip; “Which&amp;hellip;”   啥&amp;hellip;/啥物&amp;hellip;siánn&amp;hellip;/siánn mih&amp;hellip; “What&amp;hellip;”    Indefinite    Hokkien English Translation     無～bô&amp;hellip; “No&amp;hellip;”   所有～sóo ū&amp;hellip; “Every&amp;hellip;”   有～ū&amp;hellip; “Some&amp;hellip;”   任何～jīm hô&amp;hellip; “Any&amp;hellip;”   別～pát&amp;hellip; “Other&amp;hellip;”    Interrogatives    Hokkien English translation     當時、底時tang sî, tī sî “When”2   焉怎án tsuánn “How”&amp;mdash;in what way   偌&amp;hellip;jua&amp;hellip;/gua&amp;hellip;/lua&amp;hellip; “How&amp;hellip;”&amp;mdash;to what extend   爲啥、是焉怎uī siánn, sī án tsuánn “Why”   曷、曷使、曷著áh, áh sái, áh tióh “Why should”   敢&amp;hellip;kám&amp;hellip; “Whether&amp;hellip;”    Suffix    Hokkien English translation     &amp;hellip;其&amp;hellip;ê Genetive form “-’s”   &amp;hellip;家己&amp;hellip;ka kī/tī Reflexive form “-self”     「遮」,「遐」, and「底、底位」are actually corresponding to “this/that/what place” in English as “here/there/where” are adverbs that mean “at this/that/what place.</description>
-    </item>
-    
-    <item>
-      <title>Enhanced Taiwanese Romanization System</title>
-      <link>/post/etrs/</link>
-      <pubDate>Fri, 24 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/etrs/</guid>
-      <description>Unlike the POJ (Pe̍h-ōe-jī, Church Romanization), Enhanced Taiwanese Romanization System is only used as phoenetic alphabets instead as a writing system. It does not used hyphen to connect syllables like TL (Tâi-lô, Taiwanese Romanization System) does but transcripts character by character. This system is modified from TL and POJ to suit both Hokkien and Hakka. Below is the charts of Enhanced Taiwanese Romanization System, or ETRS for short.
-Consonants    ETRS Hokkien Hakka Note     b [ b ] [ b ] In Hakka, b is only used in Chioon (詔安) dialect.</description>
     </item>
     
   </channel>

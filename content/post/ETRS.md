@@ -1,12 +1,13 @@
 ---
 title: Enhanced Taiwanese Romanization System
 date: '2018-08-24'
+description: 'For Hokkien and Hakka'
 slug: ETRS
-categories: ['linguistics']
+categories: ['Linguistics']
 tags: ['TL', 'POJ', 'Hakka', 'Hokkien', 'Taiwanese', 'Transliteration']
 ---
 
-Unlike the *POJ* (Pe̍h-ōe-jī, Church Romanization), *Enhanced Taiwanese Romanization System* is only used as phoenetic alphabets instead as a writing system. It does not used hyphen to connect a word like *TL* (Tâi-lô, Taiwanese Romanization System) does but attemps to transcript character by character. This system is modified from *TL* and has referenced from *POJ* to suit for both Hokkien and Hakka. Below is the charts of *Enhanced Taiwanese Romanization System*, or *ETRS* for short.
+Unlike the *POJ* (Pe̍h-ōe-jī, Church Romanization), *Enhanced Taiwanese Romanization System* is only used as phoenetic alphabets instead as a writing system. It does not used hyphen to connect syllables like *TL* (Tâi-lô, Taiwanese Romanization System) does but transcripts character by character. This system is modified from *TL* and *POJ* to suit both Hokkien and Hakka. Below is the charts of *Enhanced Taiwanese Romanization System*, or *ETRS* for short.
 
 # Consonants
 |ETRS|Hokkien|Hakka|Note|
