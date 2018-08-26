@@ -1,7 +1,7 @@
 ---
 title: Enhanced Taiwanese Romanization System
+description: For Hokkien and Hakka
 date: '2018-08-24'
-description: 'For Hokkien and Hakka'
 slug: ETRS
 categories: ['Linguistics']
 tags: ['TL', 'POJ', 'Hakka', 'Hokkien', 'Taiwanese', 'Transliteration']

@@ -1,7 +1,7 @@
 ---
-title: 'Basic Vocabularies of Taiwanese Hokkien'
+title: Basic Vocabularies of Taiwanese Hokkien
+description: Pronouns, detetminers, interrogatives, and suffix
 date: '2018-08-24'
-description: 'Pronouns, detetminers, interrogatives, and suffix'
 slug: BasicVocabulariesHokkien
 categories: ['Vocabularies']
 tags: ['Hokkien', 'Pronouns', 'Taiwanese', 'Vocabularies']

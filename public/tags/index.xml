@@ -6,10 +6,19 @@
     <description>Recent content in Tags on Josh’s Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ca</language>
-    <lastBuildDate>Fri, 24 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Aug 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Colloquial</title>
+      <link>/tags/colloquial/</link>
+      <pubDate>Sun, 26 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/colloquial/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Hakka</title>
@@ -23,9 +32,18 @@
     <item>
       <title>Hokkien</title>
       <link>/tags/hokkien/</link>
-      <pubDate>Fri, 24 Aug 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 26 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/hokkien/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OC</title>
+      <link>/tags/oc/</link>
+      <pubDate>Sun, 26 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/oc/</guid>
       <description></description>
     </item>
     
@@ -48,6 +66,15 @@
     </item>
     
     <item>
+      <title>Strata</title>
+      <link>/tags/strata/</link>
+      <pubDate>Sun, 26 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/strata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>TL</title>
       <link>/tags/tl/</link>
       <pubDate>Fri, 24 Aug 2018 00:00:00 +0000</pubDate>
@@ -59,7 +86,7 @@
     <item>
       <title>Taiwanese</title>
       <link>/tags/taiwanese/</link>
-      <pubDate>Fri, 24 Aug 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 26 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/taiwanese/</guid>
       <description></description>

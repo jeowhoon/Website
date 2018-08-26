@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Phonology on Josh’s Site</title>
+    <link>/categories/phonology/</link>
+    <description>Recent content in Phonology on Josh’s Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ca</language>
+    <lastBuildDate>Sun, 26 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/phonology/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Phonologic Phenomena of Old Chinese in Hokkien</title>
+      <link>/post/ocinhokkien/</link>
+      <pubDate>Sun, 26 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/ocinhokkien/</guid>
+      <description>Hokkien as a part of Min languages has a long history. Many believe that it can be traced back to the Han dynasties (兩漢) as some of the phonologic features still remain in Hokkien’s colloquial readings (白讀). In Dr. Tsai’s thesis, she constructed the transition of two Hokkien strata from the Han’s and the Six dynasties’ (六朝) speeches according to their different phonologic conditions. Here is an organized chart of how the Hokkien finals correspond to Old Chinese (OC) Rhymes.</description>
+    </item>
+    
+  </channel>
+</rss>
