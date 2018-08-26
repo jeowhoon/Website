@@ -10,7 +10,8 @@ tags: ['TL', 'POJ', 'Hakka', 'Hokkien', 'Taiwanese', 'Transliteration']
 Unlike the *POJ* (Pe̍h-ōe-jī, Church Romanization), *Enhanced Taiwanese Romanization System* is only used as phoenetic alphabets instead as a writing system. It does not used hyphen to connect syllables like *TL* (Tâi-lô, Taiwanese Romanization System) does but transcripts character by character. This system is modified from *TL* and *POJ* to suit both Hokkien and Hakka. Below is the charts of *Enhanced Taiwanese Romanization System*, or *ETRS* for short.
 
 # Consonants
-|ETRS|Hokkien|Hakka|Note|
+
+|ETRS|IPA for Hokkien|IPA for Hakka|Note|
 |:---:|:---:|:---:|:---|
 |b|[ b ]|[ b ]|In Hakka, *b* is only used in Chioon (詔安) dialect.|
 |ch|-|[ ʧ ]|*ch* is only used in Hoiliuk (海陸), Ngiauphin (饒平), Chioon (詔安) dialects.|
@@ -39,7 +40,7 @@ Unlike the *POJ* (Pe̍h-ōe-jī, Church Romanization), *Enhanced Taiwanese Roman
 ---
 
 # Vowels
-|ETRS|Abbreviated|Hokkien & Hakka|Note|
+|ETRS|Abbreviated ETRS|IPA for Hokkien & Hakka|Note|
 |:---:|:---:|:---:|:---|
 |a||[ a ]||
 |e||[ e ]||
@@ -55,6 +56,7 @@ Unlike the *POJ* (Pe̍h-ōe-jī, Church Romanization), *Enhanced Taiwanese Roman
 ---
 
 # Tones
+
 |ETRS|Hokkien</br>Taipak/Kohiong|Hokkien</br>Lokkang|Hakka</br>Siien|Hakka</br>Hoiliuk|Hakka</br>Thaiphu|Hakka</br>Ngiauphin|Hakka</br>Chioon|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |a|55~44</br>陰平|55</br>陰上|55</br>去|55</br>陽平||55</br>陽平|55</br>去|
@@ -70,36 +72,34 @@ Unlike the *POJ* (Pe̍h-ōe-jī, Church Romanization), *Enhanced Taiwanese Roman
 
 ---
 
-# Examples (Poetry)
-
+# Examples
 > **早發白帝城&emsp;李白**</br>
 > 朝辭白帝彩雲間，千里江陵一日還；</br>兩岸猿聲啼不住，輕舟已過萬重山。
 
-**Hokkien**
-
+### Hokkien
 > **tsó huat pík tè sîng&emsp;lí pík**</br>
 > tiau sî pík tè tshái ûn kan, tshian lí kang lîng it jít huân;</br>
 > lióng gān uân sing thê put tsū, khing tsiu í kò bān tiông san.
 
-**Siien 四縣**
+### Siien 四縣
 
 > **tsò fat phák ti sǎng&emsp;lì phák**</br>
 > tsêu tshǐr phák ti tshài iǔn kiên, tshiên lì kông lǐn it ngit fǎn;</br>
 > liòng ngan iěn sâng tǐ put tshu, khîn tsû ì ko van tshǔng sân.
 
-**Hoiliuk 海陸**
+### Hoiliuk 海陸
 
 > **tsô fát phet tǐ shang&emsp;lî phet**</br>
 > cháu tshir phet tǐ tshâi jun kién, tshién lî kóng lin jít ngít fan;</br>
 > liông ngān jan sháng thi pút chhū, khín chiú jî kǒ vān chhung sán.
 
-**Thaiphu 大埔**
+### Thaiphu 大埔
 
 > **tsò fat phák tí shǎng&emsp;lì phét**</br>
 > chēu tshǐr phák tí tshài jǔn kiēn, tshiēn lì kōng lǐn jit ngit fǎn;</br>
 > liòng ngán jěn shāng tǐ put chhú, khīn chiū jì kó ván chhǔng sān.
 
-**Chioon 詔安**
+### Chioon 詔安
 
 > **tsòo fât pha tì sháng&emsp;lì phét**</br>
 >chiǒ sú pha tì tshài bún kěen, tshiěn lì kǒng lín jît ngît bán;</br>
@@ -107,34 +107,39 @@ Unlike the *POJ* (Pe̍h-ōe-jī, Church Romanization), *Enhanced Taiwanese Roman
 
 ---
 
-# Examples (Places)
+# Examples (Abbreviated)
 
-**Hokkien**</br>
+### Hokkien
 石門區 Tsiohmng Dist</br>
 深坑區 Tshimkhẽa Dist</br>
 土城區 Thoosiã Dist
 
-**Siien 四縣**</br>
+### Siien 四縣
+
 長治鄉 Tshongtshï Twp</br>
 造橋鄉 Tshokieu Twp</br>
 公館鄉 Kungkon Twp
 
-**Hoiliuk 海陸**</br>
+### Hoiliuk 海陸
+
 楊梅區 Jongmoi Dist</br>
 關西鎮 Kuansi Twp</br>
 峨眉鄉 Ngomi Twp
 
-**Thaiphu 大埔**</br>
+### Thaiphu 大埔
+
 東勢區 Tungshi Dist</br>
 石岡區 Shakkong Dist</br>
 新社區 Sinsha Dist
 
-**Ngiauphin 饒平**</br>
+### Ngiauphin 饒平
+
 中壢區 Chunglak Dist</br>
 平鎮區 Phinchin Dist</br>
 觀音區 Kuanjim Dist	
 
-**Chioon 詔安**</br>
+### Chioon 詔安
+
 龍潭區 Liungtham Dist</br>
 大溪區 Thaikhe Dist</br>
 崙背鄉 Lunpue Twp
@@ -142,6 +147,9 @@ Unlike the *POJ* (Pe̍h-ōe-jī, Church Romanization), *Enhanced Taiwanese Roman
 ---
 
 # Appendix A: Hokkien and Hakka Finals
+
+(*Round bracket*): Only used in Hokkien</br>
+[*Square bracket*]: Only used in Hakka
 
 |||nn|m|n|ng|p|t|k|h|nnh|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -178,11 +186,8 @@ Unlike the *POJ* (Pe̍h-ōe-jī, Church Romanization), *Enhanced Taiwanese Roman
 |**n**|[n]||||||||||
 |**ng**|ng||||||||(ngh)||
 
-(Round bracket): Only used in Hokkien</br>
-[Square bracket]: Only used in Hakka
-
 ---
 
-# Reference
+# References
 
 1. The Ministry of Education of the Republic of China. (2012, September 12). Taiwanese Hakka romanization system. Retrieved from http://depart.moe.edu.tw/ED2400/News_Content.aspx?n=5EB26D97D6A29617&sms=8C59E176B3E3F56E&s=30783F04D0989E57
