@@ -42,11 +42,11 @@ tags: ['Hokkien', 'Pronouns', 'Taiwanese', 'Vocabularies']
 
 |Hokkien|English Translation|Examples|
 |:---:|:---:|:---|
-|無...</br>*bô...*|“No...”|**無**錢。</br>**No** money.|
-|所有...</br>*sóo ū...*|“Every...”|**所有**觀光區域。</br>**Every** tourist area.|
-|有...</br>*ū...*|“Some...”|有**儂**。</br>**Some**one.|
-|任何...</br>*jīm hô...*|“Any...”|**任何**表示。</br>**Any** indication.|
-|別...</br>*pát...*|“Other...”|**別**間公司。</br>An**other** company.|
+|無～</br>*bô---*|“No---”|**無**錢。</br>**No** money.|
+|所有～</br>*sóo ū---*|“Every---”|**所有**觀光區域。</br>**Every** tourist area.|
+|有～</br>*ū---*|“Some---”|有**儂**。</br>**Some**one.|
+|任何～</br>*jīm hô---*|“Any---”|**任何**表示。</br>**Any** indication.|
+|別～</br>*pát---*|“Other---”|**別**間公司。</br>An**other** company.|
 
 ---
 
@@ -55,20 +55,20 @@ tags: ['Hokkien', 'Pronouns', 'Taiwanese', 'Vocabularies']
 |Hokkien|English translation|Examples|
 |:---:|:---:|:---|
 |當時、底時</br>*tang sî, tī sî*|“When”[^2]|㑑**當時/底時**才行解各彼个湖？</br>**When** will we get to that lake?|
-|焉怎</br>*án tsuánn*|“How, in what way”|</br>|
-|偌...</br>*jua.../gua.../lua...*|“How..., to what extend”|</br>|
-|爲啥、是焉怎</br>*uī siánn, sī án tsuánn*|“Why”|</br>|
-|曷、曷使、曷著</br>*áh, áh sái, áh tióh*|“Why should”|</br>|
-|敢...</br>*kám...*|“Whether...”|</br>|
+|焉怎</br>*án tsuánn*|“How, in what way”|毋知欲**焉怎**應。</br>Not knowing **how** to reply.|
+|曷、曷使、曷著</br>*áh, áh sái, áh tióh*|“How, by what means”|我**曷/曷使/曷著**知？</br>**How** would I know?|
+|偌～</br>*jua/gua/lua---*|“How---, to what extend”|汝**偌**久無轉去？</br>**How** long haven’t you been back?|
+|爲啥、是焉怎</br>*uī siánn, sī án tsuánn*|“Why”|**爲啥/是焉怎**汝蓋欲離開？</br>**Why** do you still want to leave?|
+|敢～</br>*kám---*|“Whether” or interrogative particle to form yes-no questions|伊**敢**有親像我？</br>**Is he** like me? *or*</br>**Whether** he is like me|
 
 ---
 
 # Suffix
 
-|Hokkien|English translation|
-|:---:|:---:|
-|...其</br>*...ê*|Genetive form “-’s”|
-|...家己</br>*...ka kī/tī*|Reflexive form “-self”|
+|Hokkien|English translation|Examples|
+|:---:|:---:|:---|
+|～其</br>*---ê*|“-’s”|先生**其**帽仔。</br>Teacher**’s** hat.|
+|～家己</br>*---ka kī/tī*|“-self”|彼隻獅**家己**講。</br>The lion said him**self**.</br></br>我**家己**其事。</br>My **own** matter.|
 
 ---
 
