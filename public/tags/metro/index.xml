@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Metro on Josh’s Site</title>
+    <link>/tags/metro/</link>
+    <description>Recent content in Metro on Josh’s Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ca</language>
+    <lastBuildDate>Mon, 27 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/metro/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Taipei Metro Route Map Using Historical Names</title>
+      <link>/post/taipeimetrohistoricalnames/</link>
+      <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/taipeimetrohistoricalnames/</guid>
+      <description> 
+Name Details    Station Historical Name Origin           </description>
+    </item>
+    
+  </channel>
+</rss>

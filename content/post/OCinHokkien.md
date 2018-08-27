@@ -9,8 +9,8 @@ tags:
   - OC
   - Strata
   - Hokkien
-  - Taiwanese
   - Colloquial
+  - Taiwanese
 ---
 
 Hokkien as a part of Min languages has a long history. Many believe that it can be traced back to the *Han dynasties* (兩漢) as some of the phonologic features still remain in Hokkien’s *colloquial readings* (白讀). In Tsai’s thesis, she constructed the transition of two Hokkien strata from the Han’s and the *Six dynasties’* (六朝) speeches according to their different phonologic conditions. Here is an organized chart of how the Hokkien finals correspond to *Old Chinese (OC)* Rhymes. Dialectical differences of Tsiangtsiu (漳州) and Tsuantsiu (泉州) are separated by slashes (/).
