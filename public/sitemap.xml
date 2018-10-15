@@ -51,12 +51,6 @@
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2018-08-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/categories/linguistics/</loc>
     <lastmod>2018-08-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -64,6 +58,12 @@
   
   <url>
     <loc>/tags/metro/</loc>
+    <lastmod>2018-08-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/</loc>
     <lastmod>2018-08-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

@@ -1,6 +1,6 @@
 # baseurl = "https://example.org/"
 baseurl = "/"
-title = "Josh’s Site"
+title = "NTH’s Site"
 theme = "hugo-nederburg-theme"
 languageCode = "en-ca"
 # Enable comments by entering your Disqus shortname
@@ -14,8 +14,8 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [params]
   slogan = "typographie et linguistique"
 # description = "Describe your website" # meta description
-  author = "Josh"
-  authorLink = "mailto:jeowhoon@icloud.com"
+  author = "NTH"
+  authorLink = "/"
 # bio = [
 #   "Göran is an avid blogger and the founder of <a href='https://appernetic.io/'>Appernetic.io</a>. This is the author bio shown after posts."
 # ]
